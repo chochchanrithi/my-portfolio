@@ -1,0 +1,28 @@
+/* Basic page style */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  background-color: #f1f5f9;
+  color: #1e293b;
+  line-height: 1.6;
+}
+/* Heading */
+header {
+  background-color: #2563eb;
+  color: white;
+  text-align: center;
+  padding: 50px 20px;
+}
+/* content section */
+main {
+    background-color: rgb(211, 159, 159);
+  max-width: 800px;
+  margin-bottom: 20px;
+  padding: 25px;
+}
+/* footer */
+footer {
+    background-color: aqua;
+  text-align: center;
+  padding: 20px;
+}
